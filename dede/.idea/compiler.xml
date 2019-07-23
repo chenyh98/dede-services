@@ -7,12 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dede-services" />
+        <module name="dede-service-order" />
         <module name="eureka-server" />
-        <module name="dede-dao" />
         <module name="dede-service-info" />
         <module name="dede-service-deal" />
         <module name="dede-controller" />
-        <module name="dede-service-order" />
+        <module name="dede-dao" />
         <module name="dede-service-location" />
       </profile>
     </annotationProcessing>
