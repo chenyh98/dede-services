@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dede-controller/dede-controller.iml" filepath="$PROJECT_DIR$/dede-controller/dede-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dede-dao/dede-dao.iml" filepath="$PROJECT_DIR$/dede-dao/dede-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dede-service-deal/dede-service-deal.iml" filepath="$PROJECT_DIR$/dede-service-deal/dede-service-deal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dede-service-info/dede-service-info.iml" filepath="$PROJECT_DIR$/dede-service-info/dede-service-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dede-service-location/dede-service-location.iml" filepath="$PROJECT_DIR$/dede-service-location/dede-service-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dede-service-order/dede-service-order.iml" filepath="$PROJECT_DIR$/dede-service-order/dede-service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dede-services.iml" filepath="$PROJECT_DIR$/dede-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+    </modules>
+  </component>
+</project>

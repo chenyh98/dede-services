@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dede-services" />
+        <module name="eureka-server" />
+        <module name="dede-dao" />
+        <module name="dede-service-info" />
+        <module name="dede-service-deal" />
+        <module name="dede-controller" />
+        <module name="dede-service-order" />
+        <module name="dede-service-location" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dede-controller" target="1.8" />
+      <module name="dede-dao" target="1.8" />
+      <module name="dede-service-deal" target="1.8" />
+      <module name="dede-service-info" target="1.8" />
+      <module name="dede-service-location" target="1.8" />
+      <module name="dede-service-order" target="1.8" />
+      <module name="dede-services" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dede-controller" options="-parameters" />
+      <module name="dede-dao" options="-parameters" />
+      <module name="dede-service-deal" options="-parameters" />
+      <module name="dede-service-info" options="-parameters" />
+      <module name="dede-service-location" options="-parameters" />
+      <module name="dede-service-order" options="-parameters" />
+      <module name="dede-services" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+    </option>
+  </component>
+</project>
